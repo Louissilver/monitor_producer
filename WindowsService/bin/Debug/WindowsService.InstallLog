@@ -1,0 +1,596 @@
+﻿Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Serviço MyWindowsService foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService2...
+Serviço MyWindowsService2 foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService2 no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService2...
+Criando a origem de EventLog MyWindowsService2 no log Application...
+Revertendo o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Restaurando o log de eventos para o estado anterior da origem MyWindowsService2.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService2.
+Serviço MyWindowsService2 está sendo removido do sistema...
+Serviço MyWindowsService2 foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Serviço MyWindowsService está sendo removido do sistema...
+Serviço MyWindowsService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Serviço MyWindowsService foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Serviço MyWindowsService está sendo removido do sistema...
+Serviço MyWindowsService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Serviço MyWindowsService foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Serviço MyWindowsService está sendo removido do sistema...
+Serviço MyWindowsService foi removido com êxito do sistema.
+Tentativa de parar o serviço MyWindowsService.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Serviço MyWindowsService foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Serviço MyWindowsService está sendo removido do sistema...
+Serviço MyWindowsService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Serviço MyWindowsService foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Serviço MyWindowsService está sendo removido do sistema...
+Serviço MyWindowsService foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Aviso: a origem MyWindowsService não está registrada no computador local.
+Serviço MyWindowsService está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Serviço MyWindowsService foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Serviço MyWindowsService está sendo removido do sistema...
+Serviço MyWindowsService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Serviço MyWindowsService foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Criando a origem de EventLog MyWindowsService no log Application...
+Revertendo o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Restaurando o log de eventos para o estado anterior da origem MyWindowsService.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Serviço MyWindowsService está sendo removido do sistema...
+Serviço MyWindowsService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Serviço MyWindowsService foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Serviço MyWindowsService está sendo removido do sistema...
+Serviço MyWindowsService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService...
+Serviço MyWindowsService foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService1.
+Aviso: a origem MyWindowsService1 não está registrada no computador local.
+Serviço MyWindowsService1 está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService1...
+Serviço MyWindowsService1 foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService1 no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService2...
+Serviço MyWindowsService2 foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService2 no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService3...
+Serviço MyWindowsService3 foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService3 no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MyWindowsService4...
+Serviço MyWindowsService4 foi instalado com êxito.
+Criando a origem de EventLog MyWindowsService4 no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService4.
+Serviço MyWindowsService4 está sendo removido do sistema...
+Serviço MyWindowsService4 foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService4.
+Aviso: a origem MyWindowsService4 não está registrada no computador local.
+Serviço MyWindowsService4 está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService3.
+Serviço MyWindowsService3 está sendo removido do sistema...
+Serviço MyWindowsService3 foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService2.
+Serviço MyWindowsService2 está sendo removido do sistema...
+Serviço MyWindowsService2 foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService1.
+Serviço MyWindowsService1 está sendo removido do sistema...
+Serviço MyWindowsService1 foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MyWindowsService.
+Serviço MyWindowsService está sendo removido do sistema...
+Serviço MyWindowsService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringService...
+Serviço MonitoringService foi instalado com êxito.
+Criando a origem de EventLog MonitoringService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MonitoringService.
+Serviço MonitoringService está sendo removido do sistema...
+Serviço MonitoringService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringService...
+Serviço MonitoringService foi instalado com êxito.
+Criando a origem de EventLog MonitoringService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringService2...
+Serviço MonitoringService2 foi instalado com êxito.
+Criando a origem de EventLog MonitoringService2 no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Ocorreu uma exceção durante a desinstalação do instalador WindowsService.ProjectInstaller.
+System.ArgumentException: Dicionário savedState contém dados inconsistentes e talvez estejam corrompidos.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MonitoringService1.
+Aviso: a origem MonitoringService1 não está registrada no computador local.
+Serviço MonitoringService1 está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringService1...
+Serviço MonitoringService1 foi instalado com êxito.
+Criando a origem de EventLog MonitoringService1 no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MonitoringService2.
+Serviço MonitoringService2 está sendo removido do sistema...
+Serviço MonitoringService2 foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MonitoringService1.
+Serviço MonitoringService1 está sendo removido do sistema...
+Serviço MonitoringService1 foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MonitoringService.
+Serviço MonitoringService está sendo removido do sistema...
+Serviço MonitoringService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringService1...
+Serviço MonitoringService1 foi instalado com êxito.
+Criando a origem de EventLog MonitoringService1 no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MonitoringService1.
+Serviço MonitoringService1 está sendo removido do sistema...
+Serviço MonitoringService1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringService...
+Criando a origem de EventLog MonitoringService no log Application...
+Revertendo o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Restaurando o log de eventos para o estado anterior da origem MonitoringService.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringService2...
+Serviço MonitoringService2 foi instalado com êxito.
+Criando a origem de EventLog MonitoringService2 no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MonitoringService2.
+Serviço MonitoringService2 está sendo removido do sistema...
+Serviço MonitoringService2 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringService...
+Serviço MonitoringService foi instalado com êxito.
+Criando a origem de EventLog MonitoringService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Desinstalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+Removendo a origem do EventLog MonitoringService.
+Serviço MonitoringService está sendo removido do sistema...
+Serviço MonitoringService foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringService...
+Serviço MonitoringService foi instalado com êxito.
+Criando a origem de EventLog MonitoringService no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
