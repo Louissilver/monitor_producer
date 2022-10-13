@@ -628,3 +628,18 @@ Serviço MonitoringProducer está sendo removido do sistema...
 Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
 System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
 Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Instalando o serviço MonitoringProducer...
+Serviço MonitoringProducer foi instalado com êxito.
+Criando a origem de EventLog MonitoringProducer no log Application...
+Confirmando o assembly 'C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Projetos\wservice\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
