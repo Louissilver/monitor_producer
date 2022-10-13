@@ -1,7 +1,7 @@
 ﻿
-namespace MonitoringProducer
+namespace WindowsService2
 {
-    partial class Service
+    partial class Service1
     {
         /// <summary> 
         /// Required designer variable.
@@ -30,7 +30,7 @@ namespace MonitoringProducer
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            this.ServiceName = "Service";
+            this.ServiceName = "Service1";
         }
 
         #endregion

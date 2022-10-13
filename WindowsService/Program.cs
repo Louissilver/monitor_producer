@@ -5,7 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MonitoringProducer
+namespace WindowsService2
 {
     static class Program
     {
@@ -17,7 +17,7 @@ namespace MonitoringProducer
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service()
+                new Service1()
             };
             ServiceBase.Run(ServicesToRun);
         }

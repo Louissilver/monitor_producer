@@ -1,35 +1,46 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Linq;
 using System.ServiceProcess;
 using System.Text;
+using System.Threading.Tasks;
 using System.Configuration;
 using System.Threading;
+using System.IO;
 using RabbitMQ.Client;
 using System.Net.NetworkInformation;
 using System.Net;
 using System.Net.Sockets;
 
-namespace MonitoringProducer
+namespace WindowsService2
 {
     [RunInstaller(true)]
-    public partial class Service : ServiceBase
+    public partial class Service1 : ServiceBase
     {
-        readonly int ScheduleTime = Convert.ToInt32(ConfigurationManager.AppSettings["ThreadTime"]);
+        int ScheduleTime = Convert.ToInt32(ConfigurationSettings.AppSettings["ThreadTime"]);
 
-        private Thread Worker = null;
+        public Thread Worker = null;
 
-        public Service()
+        public Service1()
         {
             InitializeComponent();
         }
 
         protected override void OnStart(string[] args)
         {
-            ThreadStart start = new ThreadStart(Working);
-            Worker = new Thread(start);
-            Worker.Start();
+            try
+            {
+                ThreadStart start = new ThreadStart(Working);
+                Worker = new Thread(start);
+                Worker.Start();
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
         public void Working()
@@ -54,7 +65,7 @@ namespace MonitoringProducer
                                          autoDelete: false,
                                          arguments: null);
 
-                    string message = "{" + $"\"macAddress\": \"{macAddr}\", \"ipv4\": \"{LocalIPAddress()}\", \"hostname\": \"{LocalHostName()}\"," + $" \"DataHoraMensagem\": \"{DateTime.Now:yyyy'-'MM'-'dd' 'HH':'mm':'ss}\"," + $" \"local\": \"Porto Alegre\"" +  "}";
+                    string message = "{" + $"\"macAddress\": \"{macAddr}\", \"ipv4\": \"{LocalIPAddress().ToString()}\", \"hostname\": \"{LocalHostName()}\"," + $" \"DataHoraMensagem\": \"{DateTime.Now}\"," + $" \"local\": \"Porto Alegre\"" +  "}";
                     var body = Encoding.UTF8.GetBytes(message);
 
                     channel.BasicPublish(exchange: "",
@@ -69,7 +80,7 @@ namespace MonitoringProducer
 
         private IPHostEntry Host()
         {
-            if (!NetworkInterface.GetIsNetworkAvailable())
+            if (!System.Net.NetworkInformation.NetworkInterface.GetIsNetworkAvailable())
             {
                 return null;
             }
@@ -93,9 +104,16 @@ namespace MonitoringProducer
 
         protected override void OnStop()
         {
-            if (Worker != null && Worker.IsAlive)
+            try
             {
-                Worker.Abort();
+                if (Worker != null && Worker.IsAlive)
+                {
+                    Worker.Abort();
+                }
+            }
+            catch (Exception e)
+            {
+                throw;
             }
         }
     }
