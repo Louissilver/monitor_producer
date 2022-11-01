@@ -54,7 +54,7 @@ namespace MonitoringProducer
                                          autoDelete: false,
                                          arguments: null);
 
-                    string message = "{" + $"\"macAddress\": \"{macAddr}\", \"ipv4\": \"{LocalIPAddress()}\", \"hostname\": \"{LocalHostName()}\"," + $" \"DataHoraMensagem\": \"{DateTime.Now:yyyy'-'MM'-'dd' 'HH':'mm':'ss}\"," + $" \"local\": \"Porto Alegre\"" +  "}";
+                    string message = "{" + $"\"macAddress\": \"{macAddr}\", \"ipv4\": \"{LocalIPAddress()}\", \"hostname\": \"{LocalHostName()}\"," + $" \"data\": \"{DateTime.Now.ToString("yyyy'-'MM'-'dd")}\"," + $" \"hora\": \"{DateTime.Now.ToString("HH:mm:ss")}\"," + $" \"local\": \"Porto Alegre\"" +  "}";
                     var body = Encoding.UTF8.GetBytes(message);
 
                     channel.BasicPublish(exchange: "",
@@ -63,7 +63,7 @@ namespace MonitoringProducer
                                          body: body);
                 }
 
-                Thread.Sleep(ScheduleTime * 60 * 1000);
+                Thread.Sleep(ScheduleTime * 10 * 1000);
             }
         }
 
