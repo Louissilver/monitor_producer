@@ -10,6 +10,8 @@ using RabbitMQ.Client;
 using System.Net.NetworkInformation;
 using System.Net;
 using System.Net.Sockets;
+using System.Management;
+using System.Collections.Generic;
 
 namespace MonitoringProducer
 {
@@ -17,6 +19,10 @@ namespace MonitoringProducer
     public partial class Service : ServiceBase
     {
         readonly int ScheduleTime = Convert.ToInt32(ConfigurationManager.AppSettings["ThreadTime"]);
+        readonly string Hostname = ConfigurationManager.AppSettings["Hostname"];
+        readonly string Password = ConfigurationManager.AppSettings["Password"];
+        readonly string UserName = ConfigurationManager.AppSettings["UserName"];
+        readonly int Port = Convert.ToInt32(ConfigurationManager.AppSettings["Port"]);
 
         private Thread Worker = null;
 
@@ -36,35 +42,38 @@ namespace MonitoringProducer
         {
             while (true)
             {
-                var macAddr =
-                            (
-                                from nic in NetworkInterface.GetAllNetworkInterfaces()
-                                where nic.OperationalStatus == OperationalStatus.Up
-                                select nic.GetPhysicalAddress().ToString()
-                            ).FirstOrDefault();
+                var macAddr = GetMACAddress();
 
 
-                var factory = new ConnectionFactory() { HostName = "localhost" };
+                var factory = new ConnectionFactory() { HostName = Hostname.ToString(), Password = Password.ToString(), UserName = UserName.ToString(), Port = Port };
                 using (var connection = factory.CreateConnection())
                 using (var channel = connection.CreateModel())
                 {
-                    channel.QueueDeclare(queue: "hello",
+                    channel.QueueDeclare(queue: "monitor",
                                          durable: false,
                                          exclusive: false,
                                          autoDelete: false,
                                          arguments: null);
 
-                    string message = "{" + $"\"macAddress\": \"{macAddr}\", \"ipv4\": \"{LocalIPAddress()}\", \"hostname\": \"{LocalHostName()}\"," + $" \"data\": \"{DateTime.Now.ToString("yyyy'-'MM'-'dd")}\"," + $" \"hora\": \"{DateTime.Now.ToString("HH:mm:ss")}\"," + $" \"local\": \"Porto Alegre\"" +  "}";
+                    string message = "{" + $"\"macAddress\": \"{macAddr}\", \"ipv4\": \"{LocalIPAddress()}\", \"hostname\": \"{LocalHostName()}\"," + $" \"data\": \"{DateTime.Now.ToString("yyyy'-'MM'-'dd")}\"," + $" \"hora\": \"{DateTime.Now.ToString("HH:mm:ss")}\"," + $" \"local\": \"Porto Alegre\"" + "}";
                     var body = Encoding.UTF8.GetBytes(message);
 
                     channel.BasicPublish(exchange: "",
-                                         routingKey: "hello",
+                                         routingKey: "monitor",
                                          basicProperties: null,
                                          body: body);
                 }
 
                 Thread.Sleep(ScheduleTime * 10 * 1000);
             }
+        }
+
+        public static string GetMACAddress()
+        {
+            ManagementObjectSearcher searcher = new ManagementObjectSearcher("SELECT * FROM Win32_NetworkAdapterConfiguration where IPEnabled=true");
+            IEnumerable<ManagementObject> objects = searcher.Get().Cast<ManagementObject>();
+            string mac = (from o in objects orderby o["IPConnectionMetric"] select o["MACAddress"].ToString()).FirstOrDefault();
+            return mac.Replace(":", "");
         }
 
         private IPHostEntry Host()
